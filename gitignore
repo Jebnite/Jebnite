@@ -1,0 +1,43 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.spec
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs & Editors
+.vscode/
+.idea/
+*.swp
+
+# Security
+auth/
+*.env
+*.key
+*.lock
+
+# Binaries
+*.exe
+*.zip
+*.msi
+
+# Logs & Runtime
+logs/
+*.log
+*.tmp
+
+# Replays
+replays/
+*.mp4
+*.webm
+
+# Profiles / Caches
+*.jebprofile
+*.json.save
+jeb_temp/
